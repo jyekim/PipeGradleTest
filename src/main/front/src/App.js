@@ -24,7 +24,7 @@ const App = () => {
     <div>
       <header>
         <img src={img1} style={{ width: "200px" }} />
-        <h1>Test -1 </h1>
+        <h1>Test -10 </h1>
         <ul style={{ listStyle: "none" }}>
           {message.map((item, index) => (
             <li key={index}>{item}</li>
